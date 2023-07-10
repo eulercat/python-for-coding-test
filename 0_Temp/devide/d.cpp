@@ -17,6 +17,9 @@ int main() {
     double num1 = 2.5;
     double num2 = 3.5;
 
+    std::cout << std::round(num1) << std::endl;// Output: 3.0
+    std::cout << std::round(num2) << std::endl;// Output: 4.0
+
     double rounded1 = roundHalfToEven(num1);
     double rounded2 = roundHalfToEven(num2);
 
