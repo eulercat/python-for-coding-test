@@ -18,3 +18,4 @@ python-for-coding-test.iml
 0_Temp/greedy/2.dSYM/Contents/Resources/DWARF/2
 .gitignore
 0_Temp/tf/__pycache__/lab_utils_uni.cpython-310.pyc
+.ipynb_checkpoints/
